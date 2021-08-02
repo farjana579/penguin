@@ -1,0 +1,16 @@
+/* common styling */
+.btn-padding{
+    padding: 9px 21px;
+    margin: 5px 10px;
+}
+.btn-bg-color-custom{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    
+}
+.bg-card-img{
+    background-color: rgb(228, 230, 231);
+}
+/* header section  */
+header{
+    background-color: rgb(245, 245, 192);
+}
